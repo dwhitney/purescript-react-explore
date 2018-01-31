@@ -14,9 +14,9 @@
   "dependencies": {
     "purescript-day": "^9.0.0",
     "purescript-pairing": "^4.0.0",
-    "purescript-react": "^4.0.0"
+    "purescript-react": "^5.1.0"
   },
   "devDependencies": {
-    "purescript-react-dom": "^4.1.0"
+    "purescript-react-dom": "^5.0.0"
   }
 }

@@ -5,7 +5,9 @@
     "example": "pulp browserify --main Test.Main --to html/index.js"
   },
   "dependencies": {
-    "react": "^15.6.2",
-    "react-dom": "^15.6.2"
+    "react": "^16.0.2"
+  },
+  "devDependencies": {
+    "react-dom": "^16.2.0"
   }
 }
